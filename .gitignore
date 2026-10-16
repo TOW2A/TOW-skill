@@ -1,0 +1,6 @@
+# 私人语料：永不发布
+persona-corpus/
+# 环境杂物
+*.key
+*.pem
+ssh_keys/
