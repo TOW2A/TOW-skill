@@ -1,6 +1,4 @@
-# 私人语料：永不发布
-persona-corpus/
-# 环境杂物
+# 本地草稿与凭据，不入库
 *.key
 *.pem
-ssh_keys/
+*.token
